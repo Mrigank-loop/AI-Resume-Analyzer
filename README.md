@@ -4,9 +4,7 @@ An AI-powered Resume Analyzer built with Python and Streamlit that compares resu
 
 🚀 Live Demo
 
-Add your Streamlit link here:
-
-https://your-streamlit-app.streamlit.app
+https://ai-resume-analyzer-6ybjh3lqy3riddyfk33cpz.streamlit.app/
 
 ✨ Features
 📄 Upload Resume in PDF format
@@ -25,21 +23,19 @@ NumPy
 📸 Screenshots
 Home Page
 
-(Add screenshot here)
+## Screenshots
 
-Analysis Results
+![Home](screenshots/home.png)
 
-(Add screenshot here)
+![Results](screenshots/results.png)
 
 📂 Project Structure
 
 AI-Resume-Analyzer/
 
-├── app.py
-
-├── requirements.txt
-
-├── README.md
+ app.py
+ requirements.txt
+ README.md
 
 ⚙️ Installation
 
